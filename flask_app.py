@@ -15,7 +15,7 @@ def welcome():
     return "Hello World! let's build a simple Flask App ^^"
 
 
-@app.route('/predict',methods=["Get"])
+@app.route('/predict', methods=["Get"])
 def predict_note_authentication():
     
     """Let's Authenticate the Banks Note 
@@ -76,4 +76,4 @@ def predict_note_file():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0',port=8000)
+    app.run(host='0.0.0.0', port=8000)

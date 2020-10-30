@@ -31,7 +31,10 @@ This project covers:
        
    ![Alt Text](DemoDocker.gif)
        
-   **The Streamlit App** : streamlit run streamlit_app.py
+   **The Streamlit App** : 
+      ==>streamlit run streamlit_app.py
+      
+ NB: You can also deploy your streamlit App directly using Streamlit [BankNoteStreamlitApp](https://share.streamlit.io/oumaima-boumlik/bank-note-authentication-uci-data)
         
    ![Alt Text](DemoStreamlit.gif)
 ---
@@ -46,4 +49,5 @@ https://github.com/flasgger/flasgger
 
 https://www.streamlit.io/
 
+docs.streamlit.io/sharing
 

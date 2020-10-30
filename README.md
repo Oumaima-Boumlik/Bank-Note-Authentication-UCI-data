@@ -49,5 +49,5 @@ https://github.com/flasgger/flasgger
 
 https://www.streamlit.io/
 
-docs.streamlit.io/sharing
+https://docs.streamlit.io/en/stable/deploy_streamlit_app.html
 
